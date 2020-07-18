@@ -1,0 +1,221 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 15:04 ?        00:00:02 /sbin/init splash
+root           2       0  0 15:04 ?        00:00:00 [kthreadd]
+root           3       2  0 15:04 ?        00:00:00 [rcu_gp]
+root           4       2  0 15:04 ?        00:00:00 [rcu_par_gp]
+root           6       2  0 15:04 ?        00:00:00 [kworker/0:0H-kblockd]
+root           7       2  0 15:04 ?        00:00:00 [kworker/0:1-events]
+root           8       2  0 15:04 ?        00:00:00 [kworker/u12:0-events_unbound]
+root           9       2  0 15:04 ?        00:00:00 [mm_percpu_wq]
+root          10       2  0 15:04 ?        00:00:00 [ksoftirqd/0]
+root          11       2  0 15:04 ?        00:00:00 [rcu_sched]
+root          12       2  0 15:04 ?        00:00:00 [migration/0]
+root          13       2  0 15:04 ?        00:00:00 [idle_inject/0]
+root          14       2  0 15:04 ?        00:00:00 [cpuhp/0]
+root          15       2  0 15:04 ?        00:00:00 [cpuhp/1]
+root          16       2  0 15:04 ?        00:00:00 [idle_inject/1]
+root          17       2  0 15:04 ?        00:00:00 [migration/1]
+root          18       2  0 15:04 ?        00:00:00 [ksoftirqd/1]
+root          19       2  0 15:04 ?        00:00:00 [kworker/1:0-memcg_kmem_cache]
+root          20       2  0 15:04 ?        00:00:00 [kworker/1:0H-kblockd]
+root          21       2  0 15:04 ?        00:00:00 [cpuhp/2]
+root          22       2  0 15:04 ?        00:00:00 [idle_inject/2]
+root          23       2  0 15:04 ?        00:00:00 [migration/2]
+root          24       2  0 15:04 ?        00:00:00 [ksoftirqd/2]
+root          26       2  0 15:04 ?        00:00:00 [kworker/2:0H-kblockd]
+root          27       2  0 15:04 ?        00:00:00 [cpuhp/3]
+root          28       2  0 15:04 ?        00:00:00 [idle_inject/3]
+root          29       2  0 15:04 ?        00:00:00 [migration/3]
+root          30       2  0 15:04 ?        00:00:00 [ksoftirqd/3]
+root          32       2  0 15:04 ?        00:00:00 [kworker/3:0H-kblockd]
+root          33       2  0 15:04 ?        00:00:00 [cpuhp/4]
+root          34       2  0 15:04 ?        00:00:00 [idle_inject/4]
+root          35       2  0 15:04 ?        00:00:00 [migration/4]
+root          36       2  0 15:04 ?        00:00:00 [ksoftirqd/4]
+root          38       2  0 15:04 ?        00:00:00 [kworker/4:0H]
+root          39       2  0 15:04 ?        00:00:00 [cpuhp/5]
+root          40       2  0 15:04 ?        00:00:00 [idle_inject/5]
+root          41       2  0 15:04 ?        00:00:00 [migration/5]
+root          42       2  0 15:04 ?        00:00:00 [ksoftirqd/5]
+root          44       2  0 15:04 ?        00:00:00 [kworker/5:0H-kblockd]
+root          45       2  0 15:04 ?        00:00:00 [kdevtmpfs]
+root          46       2  0 15:04 ?        00:00:00 [netns]
+root          47       2  0 15:04 ?        00:00:00 [rcu_tasks_kthre]
+root          48       2  0 15:04 ?        00:00:00 [kauditd]
+root          49       2  0 15:04 ?        00:00:00 [khungtaskd]
+root          50       2  0 15:04 ?        00:00:00 [oom_reaper]
+root          51       2  0 15:04 ?        00:00:00 [writeback]
+root          52       2  0 15:04 ?        00:00:00 [kcompactd0]
+root          53       2  0 15:04 ?        00:00:00 [ksmd]
+root          54       2  0 15:04 ?        00:00:00 [khugepaged]
+root          56       2  0 15:04 ?        00:00:00 [kworker/u12:1-events_unbound]
+root          59       2  0 15:04 ?        00:00:00 [kworker/3:1-mm_percpu_wq]
+root         147       2  0 15:04 ?        00:00:00 [kintegrityd]
+root         148       2  0 15:04 ?        00:00:00 [kblockd]
+root         149       2  0 15:04 ?        00:00:00 [blkcg_punt_bio]
+root         150       2  0 15:04 ?        00:00:00 [tpm_dev_wq]
+root         151       2  0 15:04 ?        00:00:00 [ata_sff]
+root         152       2  0 15:04 ?        00:00:00 [md]
+root         153       2  0 15:04 ?        00:00:00 [edac-poller]
+root         154       2  0 15:04 ?        00:00:00 [devfreq_wq]
+root         156       2  0 15:04 ?        00:00:00 [watchdogd]
+root         157       2  0 15:04 ?        00:00:00 [kworker/2:1-cgroup_destroy]
+root         160       2  0 15:04 ?        00:00:00 [kswapd0]
+root         161       2  0 15:04 ?        00:00:00 [ecryptfs-kthrea]
+root         164       2  0 15:04 ?        00:00:00 [kthrotld]
+root         165       2  0 15:04 ?        00:00:00 [acpi_thermal_pm]
+root         166       2  0 15:04 ?        00:00:00 [scsi_eh_0]
+root         167       2  0 15:04 ?        00:00:00 [scsi_tmf_0]
+root         168       2  0 15:04 ?        00:00:00 [scsi_eh_1]
+root         169       2  0 15:04 ?        00:00:00 [scsi_tmf_1]
+root         171       2  0 15:04 ?        00:00:00 [vfio-irqfd-clea]
+root         174       2  0 15:04 ?        00:00:00 [kworker/5:1-events]
+root         175       2  0 15:04 ?        00:00:00 [ipv6_addrconf]
+root         186       2  0 15:04 ?        00:00:00 [kstrp]
+root         190       2  0 15:04 ?        00:00:00 [kworker/u13:0]
+root         192       2  0 15:04 ?        00:00:00 [kworker/4:1-cgroup_destroy]
+root         207       2  0 15:04 ?        00:00:00 [charger_manager]
+root         208       2  0 15:04 ?        00:00:00 [kworker/3:1H-kblockd]
+root         209       2  0 15:04 ?        00:00:00 [kworker/0:2-mm_percpu_wq]
+root         257       2  0 15:04 ?        00:00:00 [scsi_eh_2]
+root         258       2  0 15:04 ?        00:00:00 [scsi_tmf_2]
+root         262       2  0 15:04 ?        00:00:00 [kworker/4:2-events]
+root         263       2  0 15:04 ?        00:00:00 [kworker/0:1H-kblockd]
+root         285       2  0 15:04 ?        00:00:00 [kworker/1:1H-kblockd]
+root         286       2  0 15:04 ?        00:00:00 [jbd2/sda5-8]
+root         287       2  0 15:04 ?        00:00:00 [ext4-rsv-conver]
+root         288       2  0 15:04 ?        00:00:00 [kworker/2:1H-kblockd]
+root         301       2  0 15:04 ?        00:00:00 [kworker/5:1H-kblockd]
+root         320       2  0 15:04 ?        00:00:00 [kworker/4:1H-kblockd]
+root         329       1  0 15:04 ?        00:00:01 /lib/systemd/systemd-journald
+root         352       1  0 15:04 ?        00:00:00 /lib/systemd/systemd-udevd
+root         353       2  0 15:04 ?        00:00:00 [irq/18-vmwgfx]
+root         354       2  0 15:04 ?        00:00:00 [ttm_swap]
+root         362       2  0 15:04 ?        00:00:00 [loop0]
+root         370       2  0 15:04 ?        00:00:00 [loop1]
+root         371       2  0 15:04 ?        00:00:00 [loop2]
+root         372       2  0 15:04 ?        00:00:00 [loop3]
+root         387       2  0 15:04 ?        00:00:00 [loop4]
+root         404       2  0 15:04 ?        00:00:00 [loop5]
+root         406       2  0 15:04 ?        00:00:00 [loop6]
+root         407       2  0 15:04 ?        00:00:00 [loop7]
+root         408       2  0 15:04 ?        00:00:00 [loop8]
+root         409       2  0 15:04 ?        00:00:00 [kworker/3:2-cgroup_destroy]
+root         417       2  0 15:04 ?        00:00:00 [iprt-VBoxWQueue]
+root         438       2  0 15:04 ?        00:00:00 [cryptd]
+systemd+     619       1  0 15:04 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     620       1  0 15:04 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         639       1  0 15:04 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         640       1  0 15:04 ?        00:00:00 /usr/sbin/acpid
+avahi        643       1  0 15:04 ?        00:00:00 avahi-daemon: running [phuoc-VirtualBox.local]
+root         647       1  0 15:04 ?        00:00:00 /usr/sbin/cron -f
+root         649       1  0 15:04 ?        00:00:00 /usr/sbin/cupsd -l
+message+     650       1  0 15:04 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         651       1  0 15:04 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         658       1  0 15:04 ?        00:00:00 /usr/sbin/irqbalance --foreground
+root         660       1  0 15:04 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         664       1  0 15:04 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       668       1  0 15:04 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         670       1  0 15:04 ?        00:00:02 /usr/lib/snapd/snapd
+root         673       1  0 15:04 ?        00:00:00 /usr/libexec/switcheroo-control
+root         676       1  0 15:04 ?        00:00:01 /lib/systemd/systemd-logind
+root         684       1  0 15:04 ?        00:00:00 /usr/lib/udisks2/udisksd
+root         686       1  0 15:04 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        688     643  0 15:04 ?        00:00:00 avahi-daemon: chroot helper
+root         711       2  0 15:04 ?        00:00:00 [kworker/2:3-events]
+root         719       2  0 15:04 ?        00:00:00 [kworker/5:3-mm_percpu_wq]
+root         724       1  0 15:04 ?        00:00:00 /usr/sbin/cups-browsed
+lp           726     649  0 15:04 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp           729     649  0 15:04 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+lp           730     649  0 15:04 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         741       1  0 15:04 ?        00:00:00 /usr/sbin/ModemManager --filter-policy=strict
+root         755       1  0 15:04 ?        00:00:00 /usr/sbin/gdm3
+root         784       1  0 15:04 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         785     755  0 15:04 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+phuoc        804       1  0 15:04 ?        00:00:00 /lib/systemd/systemd --user
+phuoc        807     804  0 15:04 ?        00:00:00 (sd-pam)
+whoopsie     827       1  0 15:04 ?        00:00:00 /usr/bin/whoopsie -f
+kernoops     829       1  0 15:04 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     839       1  0 15:04 ?        00:00:00 /usr/sbin/kerneloops
+phuoc        899     804  0 15:04 ?        00:00:01 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+phuoc        901     804  0 15:04 ?        00:00:00 /usr/libexec/tracker-miner-fs
+phuoc        904       1  0 15:04 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+phuoc        908     785  0 15:04 tty2     00:00:00 /usr/lib/gdm3/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+phuoc        911     804  0 15:04 ?        00:00:00 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+phuoc        913     908  4 15:04 tty2     00:00:23 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -background none -noreset -keeptty -verbose 3
+phuoc        917     804  0 15:04 ?        00:00:00 /usr/libexec/gvfsd
+phuoc        923     804  0 15:04 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+phuoc        931     804  0 15:04 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+phuoc        947     804  0 15:04 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+phuoc        951     804  0 15:04 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+phuoc        956     804  0 15:04 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+phuoc        960     804  0 15:04 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+phuoc        964     804  0 15:04 ?        00:00:00 /usr/libexec/goa-daemon
+phuoc        987     804  0 15:04 ?        00:00:00 /usr/libexec/goa-identity-service
+root         993       1  0 15:04 ?        00:00:01 /usr/lib/upower/upowerd
+rtkit        995       1  0 15:04 ?        00:00:00 /usr/libexec/rtkit-daemon
+phuoc       1001     908  0 15:04 tty2     00:00:00 /usr/libexec/gnome-session-binary --systemd --systemd --session=ubuntu
+phuoc       1078    1001  0 15:04 ?        00:00:00 /usr/bin/ssh-agent /usr/bin/im-launch env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --systemd --session=ubuntu
+phuoc       1095       1  0 15:04 ?        00:00:00 /usr/bin/ibus-daemon --daemonize --xim
+phuoc       1101    1095  0 15:04 ?        00:00:00 /usr/libexec/ibus-dconf
+phuoc       1102    1095  0 15:04 ?        00:00:01 /usr/libexec/ibus-ui-gtk3
+phuoc       1104    1095  0 15:04 ?        00:00:03 /usr/libexec/ibus-extension-gtk3
+phuoc       1106       1  0 15:04 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+phuoc       1110     804  0 15:04 ?        00:00:00 /usr/libexec/ibus-portal
+phuoc       1165     804  0 15:04 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+phuoc       1170    1165  0 15:04 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+phuoc       1181     804  0 15:04 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+phuoc       1183     804  0 15:04 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+phuoc       1201     804  0 15:04 ?        00:00:00 /usr/libexec/xdg-document-portal
+phuoc       1206     804  0 15:04 ?        00:00:00 /usr/libexec/xdg-permission-store
+phuoc       1216     804  0 15:04 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+phuoc       1229     804  0 15:04 ?        00:00:00 /usr/libexec/dconf-service
+phuoc       1252     804  0 15:04 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+phuoc       1259     804  0 15:04 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+phuoc       1272    1095  0 15:04 ?        00:00:00 /usr/libexec/ibus-engine-simple
+phuoc       1282     804 10 15:04 ?        00:00:50 /usr/bin/gnome-shell
+phuoc       1375     804  0 15:05 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+phuoc       1379     804  0 15:05 ?        00:00:00 /usr/libexec/evolution-source-registry
+phuoc       1387     804  0 15:05 ?        00:00:00 /usr/libexec/gvfsd-metadata
+phuoc       1407     804  0 15:05 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+phuoc       1418     917  0 15:05 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.3 /org/gtk/gvfs/exec_spaw/0
+phuoc       1428     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+phuoc       1429     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-color
+phuoc       1431     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-datetime
+phuoc       1432     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-housekeeping
+phuoc       1433     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-keyboard
+phuoc       1439     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-media-keys
+phuoc       1440     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-power
+phuoc       1442     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-print-notifications
+phuoc       1443     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-rfkill
+phuoc       1446     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+phuoc       1447     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-sharing
+phuoc       1448     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-smartcard
+phuoc       1459     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-sound
+phuoc       1461     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-usb-protection
+phuoc       1462     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-wacom
+phuoc       1463    1259  0 15:05 ?        00:00:01 /usr/libexec/evolution-data-server/evolution-alarm-notify
+phuoc       1464     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-wwan
+phuoc       1466    1259  0 15:05 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+phuoc       1467     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-xsettings
+phuoc       1480     804  0 15:05 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+phuoc       1545     804  0 15:05 ?        00:00:00 /usr/libexec/gsd-printer
+colord      1568       1  0 15:05 ?        00:00:00 /usr/libexec/colord
+phuoc       1588     804  0 15:05 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+root        1705       2  0 15:05 ?        00:00:00 [kworker/1:4-mm_percpu_wq]
+phuoc       1722     804  1 15:05 ?        00:00:08 /usr/bin/nautilus --gapplication-service
+phuoc       1782     804  0 15:05 ?        00:00:00 ./myftpd
+phuoc       1813    1259  0 15:06 ?        00:00:00 update-notifier
+phuoc       2021     804  0 15:08 ?        00:00:00 /usr/lib/libreoffice/program/oosplash --writer file:///home/phuoc/Desktop/A2_Quoc_Huy_To_33509424/Assignment2.docx
+phuoc       2039    2021  3 15:08 ?        00:00:09 /usr/lib/libreoffice/program/soffice.bin --writer file:///home/phuoc/Desktop/A2_Quoc_Huy_To_33509424/Assignment2.docx
+root        2165       2  0 15:10 ?        00:00:00 [kworker/u12:2-events_power_efficient]
+root        2198       2  0 15:10 ?        00:00:00 [kworker/4:0-cgroup_destroy]
+root        2199       2  0 15:10 ?        00:00:00 [kworker/4:3-mm_percpu_wq]
+phuoc       2210     804  1 15:10 ?        00:00:01 /usr/libexec/gnome-terminal-server
+phuoc       2221    2210  0 15:10 pts/1    00:00:00 bash
+phuoc       2237     804 24 15:12 ?        00:00:09 /usr/lib/firefox/firefox -new-window
+phuoc       2321    2237 15 15:12 ?        00:00:05 /usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 214133 -parentBuildID 20200403170909 -appdir /usr/lib/firefox/browser 2237 true tab
+phuoc       2373    2237  3 15:12 ?        00:00:01 /usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 6382 -prefMapSize 214133 -parentBuildID 20200403170909 -appdir /usr/lib/firefox/browser 2237 true tab
+phuoc       2438    2237  2 15:12 ?        00:00:00 /usr/lib/firefox/firefox -contentproc -childID 3 -isForBrowser -prefsLen 7151 -prefMapSize 214133 -parentBuildID 20200403170909 -appdir /usr/lib/firefox/browser 2237 true tab
+phuoc       2485    2221  0 15:13 pts/1    00:00:00 ps -ef
+phuoc       2486    2221  0 15:13 pts/1    00:00:00 less
